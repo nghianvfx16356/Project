@@ -1,0 +1,19 @@
+.container-search {
+    background-color: #333;
+    height: 1000px;
+}
+
+.search-result {
+    top: 100px;
+    background-color: #333;
+    
+}
+
+.search-result>h2 {
+    color: #fff;
+}
+
+.search-result>img {
+    width: 10%;
+    padding: 10px;
+}

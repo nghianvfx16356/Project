@@ -1,0 +1,43 @@
+
+.main-content {
+    padding-top: 10px;
+    background-color: #333;
+    max-width: 100%;
+    width: 100%;
+    height: auto;
+    overflow-x: scroll;
+    overflow-y: hidden;
+  }
+  
+  .main-content > h4 {
+    color: #fff;
+    font-size: 18px;
+    margin-left: 20px;
+  }
+  
+  .slide {
+    min-width: 400%;
+  }
+  
+  .slide > img {
+    display: inline;
+    padding: 20px 5px;
+  }
+  
+  .poster-path {
+    width: 3%;
+    height: 200px;
+  }
+  
+  .backdrop_path {
+    width: 4%;
+  }
+  
+  .poster-path:hover {
+    width: 4%;
+  }
+  
+  .backdrop_path:hover {
+    width: 5%;
+  }
+  

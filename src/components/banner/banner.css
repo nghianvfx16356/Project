@@ -1,0 +1,28 @@
+.banner {
+    background-size: cover;
+    height: 400px;
+    color: white;
+    padding-top: 100px;
+}
+
+.banner>div {
+    margin-left: 5px;
+}
+
+.banner>div>button {
+    background-color: rgba(0, 0, 0, 0.267);
+    color: #fff;
+    border: none;
+    border-radius: 7px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.banner>div>h2 {
+    font-size: 40px;
+}
+
+.banner>div>p {
+    text-align: left;
+    font-size: 11px;
+}

@@ -1,0 +1,21 @@
+.movie-detail {
+  height: auto;
+  background-color: #333;
+  color: #fff;
+  margin-bottom: 20px;
+}
+
+
+
+.video-trailer,
+.detail-description {
+  max-width: 50%;
+}
+
+.detail-description>h3 {
+  border-bottom: 1px solid #fff;
+}
+
+.video-trailer {
+  text-align: center;
+}
